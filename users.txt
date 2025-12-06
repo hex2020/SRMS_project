@@ -1,0 +1,4 @@
+admin admin123 ADMIN
+staff staff123 STAFF
+guest guest123 GUEST
+student student123 USER
